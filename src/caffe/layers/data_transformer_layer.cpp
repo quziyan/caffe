@@ -1,7 +1,7 @@
 #define _USE_MATH_DEFINES
 #include <vector>
 #include "caffe/layer.hpp"
-#include "caffe/data_transformer_layer.hpp"
+#include "caffe/layers/data_transformer_layer.hpp"
 #include "caffe/util/math_functions.hpp"
 #include <math.h>
 namespace caffe {
